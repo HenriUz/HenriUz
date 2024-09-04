@@ -16,6 +16,6 @@ Possuo conhecimento nas seguintes tecnologias, mas continuo buscando aumentar ai
 
 # Projetos:
 Segue alguns dos principais projetos que eu criei:
-- Comparação entre diferentes algoritmos para uma rede de sensores sem fio (python): ![RSSF](https://github.com/HenriUz/Algoritmos-para-RSSF)
+- Comparação entre diferentes algoritmos para uma rede de sensores sem fio (python): [RSSF](https://github.com/HenriUz/Algoritmos-para-RSSF)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
