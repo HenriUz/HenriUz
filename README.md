@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=HenriUz&icon=2&color=8)](https://visitcount.itsvg.in)
 
 ## Rede social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/henrique-zucato-de-souza-4699a5288) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-zucato-de-souza-4699a5288) 
 
 ## Equipe de competição:
 A HawkSec é uma equipe de cibersegurança, com foco na participação de competições de CTFs e na criação de uma "cultura hacker" no país. Atualmente já somos top 2 do Brasil.
