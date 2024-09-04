@@ -17,5 +17,7 @@ Possuo conhecimento nas seguintes tecnologias, mas continuo buscando aumentar ai
 # Projetos:
 Segue alguns dos principais projetos que eu criei:
 - Comparação entre diferentes algoritmos para uma rede de sensores sem fio (python): [RSSF](https://github.com/HenriUz/Algoritmos-para-RSSF)
+- Comparação entre o desempenho da árvore avl e da árvore rubro-negra (c): [AVLxRN](https://github.com/HenriUz/Comparacao-entre-Arvore-AVL-e-Rubro-Negra)
+- Implementações de diferentes estruturas de dados, junto com um benchmarking da árvore b (c): [Estruturas](https://github.com/HenriUz/Estruturas-de-Dados)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
