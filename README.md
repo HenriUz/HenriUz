@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-zucato-de-souza-4699a5288) 
 
 ## Equipe de competição:
-A HawkSec é uma equipe de cibersegurança, com foco na participação de competições de CTFs e na criação de uma "cultura hacker" no país. Atualmente já somos top 2 do Brasil.
+A HawkSec UNIFEI é uma equipe de cibersegurança, com foco na participação de competições de CTFs e na criação de uma "cultura hacker" no país. 
 
 [![HawkSec](https://github.com/user-attachments/assets/b21a9f03-fabd-4eff-8230-44cd8e99f85f)](https://github.com/HawkSecUnifei)
 
