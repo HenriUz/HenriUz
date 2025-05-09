@@ -6,7 +6,7 @@
 - 🦅 Diretor Geral da [HawkSec](https://github.com/HawkSecUnifei).  
   
 
-- 🧠Entusiasta de problemas de otimização combinatória e algoritmos inteligentes.  
+- 🧠 Entusiasta de problemas de otimização combinatória e algoritmos inteligentes.  
 
 <br/>  
 
