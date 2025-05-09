@@ -1,26 +1,81 @@
-# Prazer, eu sou o Henrique!
-[![](https://visitcount.itsvg.in/api?id=HenriUz&icon=2&color=8)](https://visitcount.itsvg.in)
+![Header](github.png)
 
-## Rede social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-zucato-de-souza-4699a5288) 
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
 
-## Equipe de competição:
-A HawkSec UNIFEI é uma equipe de cibersegurança, com foco na participação de competições de CTFs e na criação de uma "cultura hacker" no país. 
+- 📚 Estudante de Ciência da Computação.  
+  
 
-[![HawkSec](https://github.com/user-attachments/assets/b21a9f03-fabd-4eff-8230-44cd8e99f85f)](https://github.com/HawkSecUnifei)
+- 🦅 Diretor Geral da [HawkSec](https://github.com/HawkSecUnifei).  
+  
 
-# Tecnologias conhecidas:
-Possuo conhecimento nas seguintes tecnologias, mas continuo buscando aumentar ainda mais essa lista. 
+- 🧠Entusiasta de problemas de otimização combinatória e algoritmos inteligentes.  
+  
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+<br/>  
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-# Projetos:
-Segue alguns dos principais projetos criados:
-- Aplicação fullstack, usando Next.js, para repositório de repúblicas universitárias: [Republicas](https://github.com/Jooaomarcelo/projeto-final-web)
-- Comparação entre diferentes algoritmos para uma rede de sensores sem fio (python): [RSSF](https://github.com/HenriUz/Algoritmos-para-RSSF)
-- Comparação entre o desempenho da árvore avl e da árvore rubro-negra (c): [AVLxRN](https://github.com/HenriUz/Comparacao-entre-Arvore-AVL-e-Rubro-Negra)
-- Implementações de diferentes estruturas de dados, junto com um benchmarking da árvore b (c): [Estruturas](https://github.com/HenriUz/Estruturas-de-Dados)
+## Tecnologias & Ferramentas que uso
+<table><tr><td valign="top" width="33%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### Linguagens  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Frameworks e Bibliotecas  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Outros  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+## Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jooaomarcelo&repo=projeto-final-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/Jooaomarcelo/projeto-final-web)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriUz&repo=Algoritmos-para-RSSF&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/HenriUz/Algoritmos-para-RSSF)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValimD&repo=Projeto_metaheuristica_ML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/ValimD/Projeto_metaheuristica_ML)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriUz&repo=Estruturas-de-Dados&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/HenriUz/Estruturas-de-Dados)
+
+<br/>  
+
+## Redes Sociais 
+<div align="center">
+<a href="https://github.com/HenriUz" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/henrique-zucato-de-souza-4699a5288" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
