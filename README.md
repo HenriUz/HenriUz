@@ -1,9 +1,4 @@
-![Header](github.png)
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+![Header](https://github.com/HenriUz/HenriUz/blob/main/github.png)
 
 - 📚 Estudante de Ciência da Computação.  
   
@@ -12,7 +7,6 @@
   
 
 - 🧠Entusiasta de problemas de otimização combinatória e algoritmos inteligentes.  
-  
 
 <br/>  
 
@@ -60,13 +54,13 @@
 <br/>  
 
 ## Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jooaomarcelo&repo=projeto-final-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/Jooaomarcelo/projeto-final-web)
+[![Projeto Web](https://github-readme-stats.vercel.app/api/pin/?username=Jooaomarcelo&repo=projeto-final-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/Jooaomarcelo/projeto-final-web)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriUz&repo=Algoritmos-para-RSSF&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/HenriUz/Algoritmos-para-RSSF)
+[![Otimizacao combinatoria](https://github-readme-stats.vercel.app/api/pin/?username=ValimD&repo=Projeto_metaheuristica_ML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/ValimD/Projeto_metaheuristica_ML)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ValimD&repo=Projeto_metaheuristica_ML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/ValimD/Projeto_metaheuristica_ML)
+[![RSSF](https://github-readme-stats.vercel.app/api/pin/?username=HenriUz&repo=Algoritmos-para-RSSF&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/HenriUz/Algoritmos-para-RSSF)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriUz&repo=Estruturas-de-Dados&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/HenriUz/Estruturas-de-Dados)
+[![Estruturas de dados](https://github-readme-stats.vercel.app/api/pin/?username=HenriUz&repo=Estruturas-de-Dados&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/HenriUz/Estruturas-de-Dados)
 
 <br/>  
 
