@@ -1,22 +1,20 @@
 ![Header](https://github.com/HenriUz/HenriUz/blob/main/github.png)
 
-- 📚 Estudante de Ciência da Computação.  
+- 📚 Computer Science student.
   
 
-- 🦅 Diretor Geral da [HawkSec](https://github.com/HawkSecUnifei).  
+- 🦅 Managing Director of [HawkSec](https://github.com/HawkSecUnifei).  
   
 
-- 🧠 Entusiasta de problemas de otimização combinatória e algoritmos inteligentes.  
+- 🧠 Enthusiast of combinatorial optimization problems and intelligent algorithms.  
 
 <br/>  
 
 
-## Tecnologias & Ferramentas que uso
+## Technologies & Tools 
 <table><tr><td valign="top" width="33%">
 
-
-
-### Linguagens  
+### Languages  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -28,9 +26,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### Frameworks e Bibliotecas  
+### Frameworks and Libraries 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -40,9 +36,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### Outros  
+### Others  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -53,7 +47,7 @@
 
 <br/>  
 
-## Projetos
+## Projects
 [![Projeto Web](https://github-readme-stats.vercel.app/api/pin/?username=Jooaomarcelo&repo=projeto-final-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/Jooaomarcelo/projeto-final-web)
 
 [![Otimizacao combinatoria](https://github-readme-stats.vercel.app/api/pin/?username=ValimD&repo=Projeto_metaheuristica_ML&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/ValimD/Projeto_metaheuristica_ML)
@@ -64,7 +58,7 @@
 
 <br/>  
 
-## Redes Sociais 
+## Social networks 
 <div align="center">
 <a href="https://github.com/HenriUz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
