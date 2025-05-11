@@ -3,7 +3,7 @@
 - 📚 Computer Science student.
   
 
-- 🦅 Managing Director of [HawkSec](https://github.com/HawkSecUnifei).  
+- 🦅 General Manager of [HawkSec](https://github.com/HawkSecUnifei).  
   
 
 - 🧠 Enthusiast of combinatorial optimization problems and intelligent algorithms.  
